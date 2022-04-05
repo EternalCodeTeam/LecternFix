@@ -1,4 +1,4 @@
-package unknown.developer.crashfix;
+package unknown.developer.lecternfix;
 
 import com.comphenix.protocol.PacketType;
 import com.comphenix.protocol.ProtocolLibrary;

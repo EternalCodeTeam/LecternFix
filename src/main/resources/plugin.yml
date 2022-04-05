@@ -1,6 +1,6 @@
 name: LecternFix
 version: '${version}'
-main: unknown.developer.crashfix.LecternFix
+main: unknown.developer.lecternfix.LecternFix
 api-version: 1.13
 authors: [ UnknownDev ]
 depend:
